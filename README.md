@@ -3,3 +3,6 @@
 
 ## Links Úteis
 [Referência para linguagem markdown (markdownguide.org)](https://www.markdownguide.org/getting-started/)
+
+## Versão do repositório
+1.0
